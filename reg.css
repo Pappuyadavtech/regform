@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(71, 180, 216);
+}
+.reg {
+  padding: 10px;
+  border: 2px solid black;
+}
+input[type="text"],
+input[type="password"] {
+  padding: 10px;
+  margin: 5px 0 20px 0;
+  display: inline-block;
+  border: none;
+}
